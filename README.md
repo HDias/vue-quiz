@@ -14,7 +14,7 @@ yarn serve
 
 ![Index](docs/index.png)
 
-![Corrent answer](docs/corrent.png)
+![Corrent answer](docs/correct.png)
 
 ![Wrong answer](docs/wrong.png)
 
